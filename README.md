@@ -31,9 +31,11 @@ And also find Highest-Performing Schools (by % Overall Passing), Lowest-Performi
 # Analysis 
 **School Summary:**
 First, check about missing values and there weren't any missing values. 
+
 |Total Schools	|Total Students	|Total Budget	|Average Maths Score	|Average Reading Score	|% Passing Maths	|% Passing Reading	|% Overall Passing
 |-------------  |-------------- |-------------|---------------------|-----------------------|-----------------|-------------------|----------------|
 |15	            |39,170	        |$24,649,428.00	      |70.338192	            |69.980138	      |86.078632	  |84.426857	        |72.808272
+
 Based on this table, it appears that there are a total of 15 schools with a combined student population of 39,170. Interestingly, the data suggests that math performance is stronger than reading performance within this area. Additionally, the overall passing rate indicates a satisfactory level of achievement across the board. 
 
 
