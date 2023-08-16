@@ -29,6 +29,10 @@ Average reading score
 And also find Highest-Performing Schools (by % Overall Passing), Lowest-Performing Schools (by % Overall Passing), Maths Scores by Year, Reading Scores by Year, Scores by School Spending, Scores by School Size, Scores by School Type. 
 
 # Report for the Analysis 
+**School summary**
+First, check about missing values and there weren't any missing values. 
+![image](https://github.com/lakigit/pandas-challenge/assets/138610916/b28aa06b-1fde-4f0a-bc86-df2a625b9e3c)
+
 
 
 
