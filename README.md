@@ -30,4 +30,7 @@ And also find Highest-Performing Schools (by % Overall Passing), Lowest-Performi
 				
 As I was working on finding scores by school spending, I realized that I needed to convert the data type of "per student budget" from object type to float. This was necessary because I was using the binning method. Unfortunately, I encountered an error because the initial data type of "per student budget" was an object. To avoid this error, I used the method of converting the data type.
 
+Here is the pandas note book code:
+https://github.com/lakigit/pandas-challenge/blob/main/PyCitySchools_solution.ipynb
+
 **Note: I have added the report for this project to the repository. It is written on a Word file and should be easily accessible for anyone who needs to review it.**
