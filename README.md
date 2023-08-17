@@ -29,3 +29,5 @@ Average reading score
 And also find Highest-Performing Schools (by % Overall Passing), Lowest-Performing Schools (by % Overall Passing), Maths Scores by Year, Reading Scores by Year, Scores by School Spending, Scores by School Size, Scores by School Type. 
 				
 As I was working on finding scores by school spending, I realized that I needed to convert the data type of "per student budget" from object type to float. This was necessary because I was using the binning method. Unfortunately, I encountered an error because the initial data type of "per student budget" was an object. To avoid this error, I used the method of converting the data type.
+
+**Note: I have added the report for this project to the repository. It is written on a Word file and should be easily accessible for anyone who needs to review it.**
