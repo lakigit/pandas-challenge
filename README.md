@@ -28,6 +28,8 @@ Average reading score
 % overall passing (the percentage of students who passed maths AND reading)]
 And also find Highest-Performing Schools (by % Overall Passing), Lowest-Performing Schools (by % Overall Passing), Maths Scores by Year, Reading Scores by Year, Scores by School Spending, Scores by School Size, Scores by School Type. 
 
+
+
 # Analysis 
 **School Summary:**
 First, check about missing values and there weren't any missing values. 
@@ -38,10 +40,11 @@ First, check about missing values and there weren't any missing values.
 
 Based on this table, it appears that there are a total of 15 schools with a combined student population of 39,170. Interestingly, the data suggests that math performance is stronger than reading performance within this area. Additionally, the overall passing rate indicates a satisfactory level of achievement across the board. 
 
+**Top Performance and least performance:**
+Out of the 15 schools that were evaluated, it was found that "Griffin High School" had the highest overall passing rate with a percentage of 81.34%. On the other hand, "Hernandez High School" had the lowest overall passing rate with a percentage of 66.36%.
 
-
-
-
+				![best](https://github.com/lakigit/pandas-challenge/assets/138610916/fa5758fd-6837-4a57-b40d-68597cbcf149)
+				
 
 
 
